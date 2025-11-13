@@ -1,4 +1,4 @@
-
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Infrared%20Beam/%5B%20Input%20%5D%20-%20Infrared%20Beam%20Sensor.jpg?raw=true)
 
 # Infrared-Beam-Sensor
 **The Infrared Beam Sensor** is a type of photoelectric sensor that detects the presence or movement of objects using an invisible infrared (IR) beam. It consists of two separate units: a transmitter, which emits a continuous IR beam, and a receiver, which detects the beam. When an object passes through and interrupts the beam, the sensor triggers a response—such as activating an alarm or switching a connected device.
